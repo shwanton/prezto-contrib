@@ -13,9 +13,6 @@
 [submodule "fzf-marks"]
 	path = fzf-marks
 	url = https://github.com/urbainvaes/fzf-marks
-[submodule "contrib-aws"]
-	path = contrib-aws
-	url = https://github.com/shwanton/contrib-aws
 [submodule "enhancd/external"]
 	path = enhancd/external
 	url = https://github.com/b4b4r07/enhancd.git
