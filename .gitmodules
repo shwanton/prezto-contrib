@@ -22,3 +22,6 @@
 [submodule "fzy/external"]
 	path = fzy/external
 	url = https://github.com/aperezdc/zsh-fzy.git
+[submodule "aws"]
+	path = aws
+	url = git@github.com:shwanton/prezto-aws.git
