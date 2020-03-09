@@ -19,6 +19,9 @@
 [submodule "enhancd/external"]
 	path = enhancd/external
 	url = https://github.com/b4b4r07/enhancd.git
-[submodule "contrib-prompt/external/powerlevel10k"]
-	path = contrib-prompt/external/powerlevel10k
-	url = https://github.com/romkatv/powerlevel10k.git
+[submodule "tmux-xpanes/external"]
+	path = tmux-xpanes/external
+	url = https://github.com/greymd/tmux-xpanes.git
+[submodule "fzy/external"]
+	path = fzy/external
+	url = https://github.com/aperezdc/zsh-fzy.git
