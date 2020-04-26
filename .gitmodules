@@ -30,7 +30,3 @@
 	path = fzy/external
 	url = https://github.com/aperezdc/zsh-fzy
 	branch = master
-[submodule "aws"]
-	path = aws
-	url = https://github.com/shwanton/prezto-aws
-	branch = master
